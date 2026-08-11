@@ -13,9 +13,7 @@ Tenho interesse em criar interfaces modernas, funcionais e responsivas, sempre b
 ## 💻 Tecnologias e Ferramentas
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </div>
 
 ### 📚 Atualmente estudando
@@ -23,7 +21,6 @@ Tenho interesse em criar interfaces modernas, funcionais e responsivas, sempre b
 * HTML5
 * CSS3
 * JavaScript
-* Python
 * Git e GitHub
 * Desenvolvimento Front-End
 * Interfaces responsivas
@@ -32,30 +29,31 @@ Tenho interesse em criar interfaces modernas, funcionais e responsivas, sempre b
 
 ## 🚀 Projetos
 
-### 🖥️ Tecboard
+### 💰 Controle Financeiro
 
-Landing page desenvolvida para praticar desenvolvimento web utilizando **HTML e CSS**.
+Aplicação web para controle financeiro pessoal, com cadastro de receitas e despesas, cálculo automático de saldo, gráfico por categoria e armazenamento local dos dados.
 
-🔗 [Visualizar projeto](https://rayanecordeiro25.github.io/Tecboard/)
+**Tecnologias:** HTML5, CSS3, JavaScript, LocalStorage
+
+🔗 [Visualizar projeto](https://rayanecordeiro25.github.io/controle-financeiro/) · 🔗 [Código no GitHub](https://github.com/rayanecordeiro25/controle-financeiro)
 
 ---
 
-### 📝 To-Do List
+### 🖥️ Tecboard
 
-Projeto desenvolvido para praticar conceitos de desenvolvimento web e lógica de programação.
+Landing page desenvolvida durante o curso de Front-End da Alura, com foco em responsividade e boas práticas de layout.
 
-🔗 [Ver projeto no GitHub](https://github.com/rayanecordeiro25)
+**Tecnologias:** HTML5, CSS3
+
+🔗 [Visualizar projeto](https://rayanecordeiro25.github.io/Tecboard/) · 🔗 [Código no GitHub](https://github.com/rayanecordeiro25/Tecboard)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=rayanecordeiro25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rayanecordeiro25&layout=compact&langs_count=7&theme=tokyonight"/>
-
 </div>
 
 ---
@@ -74,15 +72,12 @@ Projeto desenvolvido para praticar conceitos de desenvolvimento web e lógica de
 ## 📫 Entre em contato
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/rayane-cordeiro-632b83373/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/rayanecordeiro25" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
 ---
